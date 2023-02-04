@@ -7,4 +7,4 @@ So apparently the previous snake program I made wasn't programmed correctly whic
 
 To play it, all you have to do is run: main.py or download the EXE.
 
-![alttext] (https://github.com/ProarchwasTaken/tld_true_snake/blob/main/Screenshot%202023-02-04%20095241.png)
+![alttext](https://github.com/ProarchwasTaken/tld_true_snake/blob/main/Screenshot%202023-02-04%20095241.png)
